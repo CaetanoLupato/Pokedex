@@ -9,13 +9,13 @@
 
 body {
     text-align: center;
-    background: linear-gradient(to bottom, #6ab7f5, #fff);
+    background-image: url(/images/background.png);
     min-height: 100vh;
 }
 
 main {
     display: inline-block;
-    margin-top: 2%;
+    margin-top: 5%;
     padding: 15px;
     position: relative;
 }
